@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm chrkk</h1>
 <h3 align="center">a student</h3>
 
-- 🌱 I’m currently learning **everything about devops and currenly following a university curriculum**
+- 🌱 I’m currently pursuing **my degree at university and expanding my skills in DevOps**
 
 - ⚡ Fun fact **i play valorant**
 
