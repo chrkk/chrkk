@@ -6,12 +6,7 @@
 
 - 🌱 I’m currently pursuing **my degree at university and expanding my skills in life**
 
-- ⚡ Fun fact:  
-  <p align="center">
-    literally me 
-    <br>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHI5ZGpuMTZ0Ymdzdnd6Z25laWNjZDF3bzd0azRhZ2N4NXBkMmNwOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZxWIUYDAKBIuKKkds3/giphy.gif" width="350" alt="gaming gif"/>
-  </p>
+- ⚡ Fun fact **i play Dota 2, Valorant, Minecraft, Roblox, Osu!, Counter-Strike 2, Apex Legends, PUBG: Battlegrounds, League of Legends, Sudoku, Fortnite, Baldur’s Gate 3, Elden Ring, Cyberpunk 2077, Palworld, Hades II, Hollow Knight: Silksong, Monster Hunter Wilds, Starfield, The Witcher 3: Wild Hunt, Diablo IV, Lethal Company, Helldivers 2, Sons of the Forest, Stardew Valley, Dave the Diver, Among Us, Team Fortress 2, Rust, ARK: Survival Ascended, Phasmophobia, Genshin Impact, Destiny 2, Rainbow Six Siege, Dead by Daylight, Terraria, Left 4 Dead 2, Garry’s Mod, Fall Guys, Overwatch 2, Call of Duty: Warzone, Grand Theft Auto V, Red Dead Redemption 2, Sea of Thieves, No Man’s Sky, Dark Souls III, Sekiro: Shadows Die Twice, Persona 5 Royal, Final Fantasy XIV Online, Dragon Age: Dreadwolf, Silent Hill 2 Remake, Metroid Prime 4, Night Crows, Legends of Ymir, Crystal of Atlan, MIR4, Brawlhalla, Crossfire, Hill Climb Racing, Clash Royale, Block Blast, Subway Surfers, Dragon City, Where the Winds Meet, Mobile Legends, Wild Rift.**
 
 ---
 
@@ -46,3 +41,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrkk&theme=dark" alt="chrkk streak stats"/>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFjOGplczU4aHRpdW4yN3poeGp1bTlkdHc5b3NvZ3Jwajl5bW91diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZxWIUYDAKBIuKKkds3/giphy.gif" width="400" alt="literally my brain"/>
+</p>
+
+<p align="center"><i>literally my brain everyday</i></p>
