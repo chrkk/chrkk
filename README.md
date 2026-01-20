@@ -46,4 +46,4 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFjOGplczU4aHRpdW4yN3poeGp1bTlkdHc5b3NvZ3Jwajl5bW91diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZxWIUYDAKBIuKKkds3/giphy.gif" width="400" alt="literally my brain"/>
 </p>
 
-<p align="center"><i>literally my brain everyday.</i></p>
+<p align="center"><i>literally my brain everyday</i></p>
