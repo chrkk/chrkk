@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRhcjZkYWt6ejZtZXd4aGIyZ3gwbzExb2x2YW1oeDRtejZkbmR3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o2HF4RsqZKnltnn5Zg/giphy.gif" width="400" alt="sarcastic gif"/>
 </p>
 
-# Hi 👋, I'm chrkk👉👈😳
+# Hi 👋, I'm chrkk👉👈😳.
 
 ### A student
 
